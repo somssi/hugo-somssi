@@ -1,0 +1,35 @@
+baseURL = "http://192.168.0.3/"
+languageCode = "ko-kr"
+title = "솜씨"
+
+theme = "coder" # set the theme
+
+[params] # theme parameters
+    author = "솜씨" # author's name
+    info = "" # author's job title or info
+    description = "적은/그린/만든 것을 남깁니다" # site description
+    keywords = "글쓰기,그림,만들기" # site keywords
+
+    # whether you want to hide copyright and credits in the footer
+    hideCredits = false
+    hideCopyright = true
+    
+# Social links
+[[params.social]]
+    name = "인스타그램"
+    weight = 1
+    url = "https://www.instagram.com/azurelysium/"
+[[params.social]]
+    name = "링크드인"
+    weight = 2
+    url = "https://www.linkedin.com/in/minhwan-kim-10923099/"
+
+# Menu links
+[[menu.main]]
+    name = "글"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "소개"
+    weight = 2
+    url = "/about/"
