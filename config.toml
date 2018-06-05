@@ -6,6 +6,7 @@ theme = "coder" # set the theme
 
 paginate = 20
 PygmentsCodeFences = true
+disqusShortname = "azurelysium"
 
 [params] # theme parameters
     author = "솜씨" # author's name
