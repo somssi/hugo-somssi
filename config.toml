@@ -4,6 +4,9 @@ title = "솜씨"
 
 theme = "coder" # set the theme
 
+paginate = 20
+PygmentsCodeFences = true
+
 [params] # theme parameters
     author = "솜씨" # author's name
     info = "" # author's job title or info

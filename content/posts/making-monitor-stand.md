@@ -2,11 +2,11 @@
 title = "모니터 받침대 만들기"
 author = ["azurelysium"]
 date = 2016-11-16
-lastmod = 2018-06-03T03:08:21+09:00
+lastmod = 2018-06-05T10:45:54+09:00
 tags = ["dont-export-during-make-test"]
 categories = ["posts"]
 draft = false
-weight = 2001
+weight = 2015
 +++
 
 집에서 사용하는 컴퓨터는 데스크탑이 아닌 랩탑입니다. 랩탑의 경우, 기기의 구조 상 시선이 아래에 머물 수 밖에

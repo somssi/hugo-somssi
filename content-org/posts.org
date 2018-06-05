@@ -8,6 +8,580 @@
 * Posts                                                             :@posts:
 All posts in here will have the category set to /posts/.
 
+** 솜씨, 손씨
+:PROPERTIES:
+:EXPORT_FILE_NAME: somssi-sonssi
+:EXPORT_DATE: 2018-06-02
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
+:END:
+
+솜씨를 발휘하기 위해선 손씨가 필요합니다.
+요즘 같은 세상에서 손씨는 좀처럼 땀 흘릴 기회가 없습니다.
+
+손을 움직이는 날들을 위하여!
+
+** 클라이밍 훈련 도구 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-climbing-rock-ring
+:EXPORT_DATE: 2017-05-25
+:END:
+
+클라이밍 훈련 도구 중, Rock ring 이란 것이 있습니다.
+
+http://www.metoliusclimbing.com/training_giude_rock_ring.html
+
+이와 비슷한 효과를 가질 수 있는 도구를 만들어 보았어요. 재료는.. 다이소에서 사온 고무나무 스마트폰 거치대 2개, 고무나무
+수저받침 2개, 인장강도 75kg 다용도 로프, 목재용 나사못. 그리고 인터넷으로 따로 주문한 트랑고 카라비너 2개.
+
+새로 마키다 전동드릴을 샀는데 그걸로 편하게 작업할 수 있었습니다. 하지만 만들어 두고 아직 사용해보질 못했네요 :)
+
+[[file:images/making-climbing-rock-ring.jpg]]
+
+** 초크백 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-climbing-chalk-bag
+:EXPORT_DATE: 2017-05-25
+:END:
+
+요즘 실내 클라이밍짐에서 클라이밍을 배우고 있습니다. 로프를 사용하지 않고 하는 종류로 볼더링이라고 불려요. 필요한 도구도
+많지 않은데, 편한 운동복 + 암벽화가 기본 장비에요. 추가로 사용할 만한 도구로는, 클라이밍 테이프, 초크, 초크백 등이
+있죠. 초크는 탄산 마그네슘이 재료로 땀으로 손이 축축해지는 걸 막아줘요. 이런 초크를 담아 사용하는 주머니를 초크백이라
+하는데 이번엔 초크백을 만들어 보았습니다.
+
+[[file:images/making-climbing-chalk-bag-1.jpg]]
+
+먼저 커다란 캔버스천을 적당한 크기로 자릅니다. 이걸 외피로 사용할거에요.
+
+[[file:images/making-climbing-chalk-bag-2.jpg]]
+
+길쭉한 직사각형으로 자른 천은 옆면으로 사용하고 바닥으로 사용할 천은 동그랗게 잘라요. 그런 다음 바느질하여 원통 모양을
+만듭니다. 이때 저는 Sewing Owl 이란 도구를 사용했어요. 두꺼운 천이나 가죽 등을 꿰맬 때 사용할 수 있는 도구입니다.
+
+[[file:images/making-climbing-chalk-bag-3.jpg]]
+
+[[file:images/making-climbing-chalk-bag-4.jpg]]
+
+[[file:images/making-climbing-chalk-bag-5.jpg]]
+
+[[file:images/making-climbing-chalk-bag-6.jpg]]
+
+그리고 비슷한 방법으로 내피를 만들어주면 되는데, 저는 다시 재단하고 꿰매기 귀찮아서 수면양말을 잘라서 만들었어요. 내피는
+부드러운 재질이 좋아요. 초크를 잘 머물러 있게 하면서 나중에 줄로 조였을 때 잘 줄어들 수 있게 부드러워야 합니다.
+
+[[file:images/making-climbing-chalk-bag-7.jpg]]
+
+그리고 간단히 고리도 만들어 달았습니다.
+
+[[file:images/making-climbing-chalk-bag-8.jpg]]
+
+일단 이렇게 완성. 사진엔 담지 않았는데 나중에 줄을 달았어요. 음, 말로 전하기 어려우니 다른 자료의 사진을 통해
+알려드릴게요.
+
+출처: http://www.instructables.com/id/Make-a-Chalk-Bag/
+
+[[file:images/making-climbing-chalk-bag-9.jpg]]
+
+이런 식으로, 외피에 구멍하나 뚫려 있고, 그쪽으로 들어온 줄은 내피를 휘감아요. 이때 내피에 고리를 하나 만들어 그쪽을
+통과하게 하는데 그래야 내피를 휘감은 줄이 제 위치에 머물러 있겠죠?
+
+[[file:images/making-climbing-chalk-bag-10.jpg]]
+
+모양이 단조로워 장식을 하나 더해봅니다. 다리미로 열접착 할 수 있는 레모네이드 모양 와펜을 달아줍니다. 다이소에서 천원에
+살 수 있어요.
+
+[[file:images/making-climbing-chalk-bag-11.jpg]]
+
+이제 정말 완성!
+
+[[file:images/making-climbing-chalk-bag-1.jpg]]
+
+** 클라이밍 트레이닝 보드 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-climbing-training-board
+:EXPORT_DATE: 2017-05-25
+:END:
+
+요새 클라이밍을 하고 있는데 실력이 늘어갈 수록 부족한 부분이 눈에 띄었습니다. 그중 하나는 손가락 힘의 부족이에요. 작은
+크기의 홀드를 잡고 올라가려면 손가락 (인대와 건 등의 결합조직) 힘이 필요합니다. 손가락 힘을 기르는 도구 중 하나로
+트레이닝 보드가 있는데 가격이 비싸 직접 만들어 보았습니다. 참고한 것은 어썸우디 입니다.
+
+[[file:images/making-climbing-training-board-1.jpg]]
+
+먼저 다이소에서 재료를 구입했습니다. 오동나무 도마 그리고 70kg 인장강도 로프
+
+[[file:images/making-climbing-training-board-2.jpg]]
+[[file:images/making-climbing-training-board-3.jpg]]
+
+톱으로 잘라 손을 걸칠 공간을 만듭니다.
+
+[[file:images/making-climbing-training-board-4.jpg]]
+
+그리고 손을 걸칠 나무조각들도 붙입니다.
+
+[[file:images/making-climbing-training-board-5.jpg]]
+
+삐죽 튀어나온 부분은 쇠톱으로 잘라줄거에요.
+
+[[file:images/making-climbing-training-board-6.jpg]]
+
+이렇게 완성!
+
+** 차도구 장식장 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-teaware-stand
+:EXPORT_DATE: 2017-02-24
+:END:
+
+역시 여자친구의 요청으로 간단한 구조의 장식장을 만들었다.
+
+[[file:images/making-teaware-stand-1.jpg]]
+
+자투리 나무를 자르고 못을 이용해 고정시켰다.
+
+[[file:images/making-teaware-stand-2.jpg]]
+
+대강 이런 모양이 될 것이다.
+
+[[file:images/making-teaware-stand-3.jpg]]
+
+이번엔 나무 그대로 두는 대신 수성페인트와 수성바니쉬를 칠해 마감했다.
+
+[[file:images/making-teaware-stand-4.jpg]]
+
+으악, 수성이라 금방 지워질 줄 알고 맨손으로 칠했는데 쉽게 지워지지 않는다.
+
+[[file:images/making-teaware-stand-5.jpg]]
+
+완성된 장식장을 여자친구에게 전해주었고, 이렇게 사용하고 있다고 인증샷을 보내왔다. 끝-.
+
+** 가죽공예 포니 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-stitching-pony
+:EXPORT_DATE: 2017-02-24
+:END:
+
+가죽공예를 할 때 가죽이 움직이지 않게 잡아주는 장치로 ‘포니’ 라는 게 있다고 한다. 여자친구가 가죽공예 할 때 필요하다며
+만들어 달라 하길래 만들어보았다.
+
+[[file:images/making-stitching-pony-1.jpg]]
+
+만들기에 앞서, 퇴근 길 버스 안에서 대강의 구조를 그려보았다.
+
+[[file:images/making-stitching-pony-2.jpg]]
+
+자투리 나무를 이용해 원하는 크기의 나무판들을 만든다.
+
+[[file:images/making-stitching-pony-3.jpg]]
+
+서로 맞물릴 두개의 나무판
+
+[[file:images/making-stitching-pony-4.jpg]]
+
+철물을 이용해 나무판을 수직방향으로 세운다.
+
+[[file:images/making-stitching-pony-5.jpg]]
+
+나무판 사이에 구멍을 뚫고 볼트를 지나가게 만든다.
+
+[[file:images/making-stitching-pony-6.jpg]]
+
+볼트를 손으로 조이기 어렵기 때문에 손잡이를 달아준다.
+
+[[file:images/making-stitching-pony-7.jpg]]
+[[file:images/making-stitching-pony-8.jpg]]
+
+그리하여, 포니 완성!
+
+** 유리병 연필깎이 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-recycled-glassjar-pencil-sharpener
+:EXPORT_DATE: 2017-01-19
+:END:
+
+회사 디자이너분의 생일이 다가옴에 따라 ‘디자이너를 위한 선물'이란 주제로 검색을 해봤는데 유리병 연필깎이라는 걸
+발견했어요. 어디서 구할까 찾아보니 DUX라는 브랜드의 잉크병 모양 연필깎이가 있었는데 문득 이정도라면 직접 만들어 볼 수도
+있겠다 라는 생각이 들어.. 재료를 준비해 한번 시도해 보았어요.
+
+[[file:images/making-recycled-glassjar-pencil-sharpener-1.jpg]]
+
+다이소에서 구입한 1000원짜리 공병, 그리고 아트박스에서 구입한 1000원에 3개 들어있던 연필깎이, 오른쪽이 있는 만년필
+잉크병은 집에 있던거에요. 그리고 2액형 에폭시 접착제는 홍대 한가람 문구센터에서 6000원 주고 샀어요.
+
+[[file:images/making-recycled-glassjar-pencil-sharpener-2.jpg]]
+
+먼저 전동 드릴과 구멍 뚫는 비트를 이용해 뚜껑에 구멍을 뚫어야 해요. 아버지께서 쓰시던 공구가 집에 있어서 그걸
+사용했는데, 처음 사용하시는 분들은 다치지 않게 조심하셔야해요.
+
+[[file:images/making-recycled-glassjar-pencil-sharpener-3.jpg]]
+
+가운데에 맞춰 뚫고 싶었는데 모두 미묘하게 빗나갔네요.
+
+[[file:images/making-recycled-glassjar-pencil-sharpener-4.jpg]]
+
+구멍을 뚫은 후엔, 연필 깎이 구멍과 뚜껑의 구멍을 맞추어 붙여주세요. 나사못 등을 사용하지 않고 접착제만으로 붙이는게
+처음에 불안할 것 같았는데, 그동안 에폭시 접착제를 써본 경험을 떠올려보면 충분히 단단히 고정될 것 같아요. 손잡이가 깨진
+머그컵, 그리고 부러진 나무 새총을 고무찰흙 형태의 에폭시 접착제로 붙여본 일이 있는데 정말 돌처럼 단단하게 굳으며 고정이
+되었어요. 오늘 사용한 액체형 에폭시 접착제도 사용법을 잘 따라 쓴다면 실제 사용에 무리가 없을만큼 단단하게 접착될 것
+같아요.
+
+[[file:images/making-recycled-glassjar-pencil-sharpener-5.jpg]]
+
+완성 :)
+
+** 훈일 그리기
+:PROPERTIES:
+:EXPORT_FILE_NAME: drawing-hoonil-20170117
+:EXPORT_DATE: 2017-01-17
+:END:
+
+인턴으로 일하고 있는 훈일이 그리기. 홍대 한가람문구센터에서 LYRA 수채 흑연 막대를 샀는데 그걸로 그려보았다. 집에서 붓
+가져와, 물 뭍혀 명암 표현을 더했다.
+
+[[file:images/drawing-hoonil-20170117.jpg]]
+
+** 에폭시 레진으로 문진 (Paperweight) 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-epoxy-paperweight
+:EXPORT_DATE: 2017-01-17
+:END:
+
+먼저 재료들을 준비합니다.
+
+[[file:images/making-epoxy-paperweight-1.jpg]]
+
+박하맛 사탕 알토이즈 빈 캔, 토이스타 토카레프 에어건에서 꺼내온 무게추, 빼빼로 데이에 받은 빼빼로에 붙어있던
+드라이플라워, 피규어 사니까 덤으로 온 아주 작은 코끼리, 그리고 미니어쳐 국물 표현용 레진.
+
+[[file:images/making-epoxy-paperweight-2.jpg]]
+
+맨 밑에는 무게추를 두고, 그 위에 작게 자른 드라이플라워들을 배치시켰습니다. 그리고 작은 코끼리 모형과 소설 문구 하나를
+크라프트지에 적어 넣었어요. 저 문구는 허먼 멜빌의 소설 모비딕의 첫 문장이에요.
+
+[[file:images/making-epoxy-paperweight-3.jpg]]
+
+이제 레진을 섞어서 부어주면 끝이에요.
+
+[[file:images/making-epoxy-paperweight-4.jpg]]
+
+작은 종이컵에 주제와 경화제를 넣고 잘 섞어 주어요. 저는 기포가 있어도 크게 상관하지 않아 그냥 세게 저어 섞었어요.
+
+[[file:images/making-epoxy-paperweight-5.jpg]]
+
+혼합한 레진을 부어주는데.. 아뿔사 알토이즈 뚜껑 연결 부위의 구멍을 막지 않아 레진이 흘러 나왔어요. 안쪽면에 투명 셀로판
+테이프를 붙이면 이런 문제를 막을 수 있을거에요. 흘러넘친 부분은.. 레진이 약간 굳은 다음, 안쪽에 셀로판테이프를 두어
+구멍을 막고 마른 휴지로 닦아 처리했어요.
+
+[[file:images/making-epoxy-paperweight-6.jpg]]
+
+이렇게 완성! 연결부위를 꼼꼼히 처리하면 뚜껑을 다시 연결해 닫는 것도 가능할 것 같아요. 그럼 안녕.
+
++ 사용하는 모습
+[[file:images/making-epoxy-paperweight-7.jpg]]
+
+** 뱅쇼 Vin Chaud 만들기
+:PROPERTIES:
+:EXPORT_FILE_NAME: making-vin-chaud
+:EXPORT_DATE: 2017-01-02
+:END:
+
+[[file:images/making-vin-chaud-1.jpg]]
+
+회사 단골 카페에서 겨울 계절메뉴로 뱅쇼가 있어 사 마셨는데 몸이 따뜻해지는 기분이 좋았습니다. 그래서 귀갓길에 뱅쇼
+재료들을 사왔습니다. 칠레 메를로 와인 9800원 사과 한개 900원 오렌지 두개 1400원 레몬 한개 1480원 계피 한소꿉 50원?
+통후추 6알 십원? 클로브(정향)는 좀처럼 구할 수가 없었습니다.
+
+[[file:images/making-vin-chaud-2.jpg]]
+
+먼저 과일을 깨끗이 씻어야 해요. 껍질 째 사용할거라 베이킹소다 풀어놓은 물에 이십여분 담가두었다가 꺼내어 헹구고 끓인
+물에 살짝 데쳤습니다. 그리고 큼직하게 썰어서 유리냄비에 담았어요.
+
+[[file:images/making-vin-chaud-3.jpg]]
+
+여기에 와인을 붓고 끓이면 되는데 어디서 찾아본 결과 와인만 넣으면 너무 졸아들 수 있어 물을 한잔 넣었어요. 그리고 와인을
+한번에 다 넣고 끓이면 알코올 성분이 다 날아갈 수 있어서 반병 정도 먼저 넣고 끓였습니다.
+
+20여분 끓인 다음, 남겨두었던 와인 반병을 마저 넣고 끓였는데 생각보다 알코올이 많이 날아가서 완성된 뱅쇼에는 거의
+술기운이 남아있지 않았지요. 다음엔 술기운을 더 많이 남겨봐야겠어요. 약간의 알코올이 남아 있어야 몸이 데워지고 나른한
+기분이 드는 것 같아요.
+
+[[file:images/making-vin-chaud-4.jpg]]
+
+이건 친구에게 소분해주기 위해 준비한 병이에요. 끓는 물로 소독한 다음, 뱅쇼가 뜨거운 상태에서 병에 넣었어요. 시간이
+지나면 뱅쇼가 식고 병은 더욱 밀폐되겠지요. 병에 담은 뱅쇼가 다 식은 다음엔 냉장고에 하루 두었다가 친구 만나는 날에
+전해주었습니다.
+
+[[file:images/making-vin-chaud-5.jpg]]
+
+뱅쇼 만들기는 이렇게 간단해요. 여러분도 오렌지 레몬 사과의 새콤달콤한 향과 맛이 가득 담긴 뱅쇼를 한번 만들어 보시겠어요?
+
+** 그림책 Zenga - 고양이 똥꼬 이야기
+:PROPERTIES:
+:EXPORT_FILE_NAME: independent-publishing-zenga
+:EXPORT_DATE: 2016-11-20
+:END:
+
+헌책방에서 그림책을 구경하고 사오면서 ‘나도 한번 그림책을 만들어볼까’ 라는 생각을 했다. 내가 좋아하는 그림책은 그림이
+간결하고, 엉뚱한 이야기가 담긴 것들이다. 이를테면, 어른들은 잘 이야기 하지 않지만 아이들은 까르르 대며 좋아하는 똥오줌
+이야기를 그린 그림책이 있다. '피토와 제르베’ 라는 이름으로 활동하는 부부 그림책 작가는 똥에 대한 이야기와 오줌에 대한
+이야기를 그렸다. '똥, 뿌직’ 그리고 '오줌, 쏴아아’. 이 두가지 책은 다른 시기에 구입했고 그땐 몰랐는데 나중에 가서야
+같은 작가가 만든 책이었음을 알았다. 또 기억나는 그림책은 '다음엔 너야 (에른스트 얀들 글/노르만 융에 그림)’ 라는
+책이다. 다친 인형들이 병원에서 진료를 기다리는데 마지막 순서인 인형이 자기 순서가 다가옴에 따라 초조하고 불안한 모습을
+보이는 걸 그렸다. 마지막 장면에선 환하게 밝혀진 방안에서 따뜻한 미소를 지어 보이는 장인 할아버지를 향해 걸어가는 인형의
+모습을 그려 그동안의 긴장을 해소한다. 글로 장황하게 설명하지 않고 그림과 짧은 문구로 이야기를 전하는게 멋지다. 글이 적은
+만큼 해석의 여지도 커지고 상상력을 자극한다.
+
+나도 어느날 문득 그림책 아이디어를 하나 떠올렸다. 어디서 왔는지 잘 기억나진 않는다. 아이디어를 어딘가 적어두려 했는데
+마침 오일파스텔을 갖고 있어서 간단하게 콘티 비슷한 걸 만들었다.
+
+[[file:images/independent-publishing-zenga-1.jpg]]
+
+내용은.. 선 Zen 그리고 도교 Taoism 의 주제를 블럭쌓기로 표현한 것이다. 평소 좋아하는 그림책과 비슷하게 논리에 구애받지
+않는 이야기를 만들고 싶었다. 일단 이야기의 큰 틀을 만들어 두었지만 여기서 멈춘 채 작업을 미뤄두고 있었다.
+
+회사는 상수동에 있고 집은 하남시라 출퇴근 시간이 길다. 집으로 돌아올 땐, 서울역 버스환승센터에 들러 하남 방향 빨간
+버스를 탄다. 이 날 역시 버스를 기다렸는데 때를 잘못 맞췄는지 20여분을 기다려야 했다. 무얼하며 시간을 보낼까 하다 문득
+미뤄두었던 그림책 작업이 떠올랐다. 그래서 기다리는 동안, 그림에 곁들일 문장들을 지어냈다.
+
+[[file:images/independent-publishing-zenga-2.jpg]]
+
+그리고 또 다시 정체기. 오일파스텔로 그려둔 그림을 사용하기엔.. 너무 투박하다고 느껴 새로 장면들을 그려야 했는데 쉽지
+않았다. 오일파스텔 그림을 그대로 옮기자 하니 처음 그렸던 느낌을 해칠 것 같았고 새로운 이미지를 만들어 그리는 것도 여의치
+않았다. 거의 상상의 그림이 될텐데 아무 것도 없는 상태에서 새로운 풍경을 만들어 내는 건 불가능해 보였다. 곰곰히 생각하다
+찾은 대안은, 기존의 이미지를 짜집기 하여 만들어 보자는 것이었다. 이미지들은 인터넷에 널려있으니 내가 원하는 이미지를
+구한 다음 편집해 장면들을 구성하면 될 것 같았다.
+
+구글에서 고양이/아이/나무블록 등의 이미지들을 검색했고, 평소 사용하던 오픈소스 이미지 편집 프로그램인 GIMP를 이용하여
+이미지들을 잘라내고 다듬고 배치시켰다. 그렇게 만들어진 장면 이미지의 일부는 아래와 같다.
+
+[[file:images/independent-publishing-zenga-3.jpg]]
+
+[[file:images/independent-publishing-zenga-4.jpg]]
+
+[[file:images/independent-publishing-zenga-5.jpg]]
+
+이제 남은 건 장면 이미지를 그림으로 옮기는 것이었다. 작업의 매 단계마다 주저함이 있었다. 이번에도 작업을 미뤄둔 채
+여러날을 보냈다. 가장 큰 문제는 그림에 자신을 갖지 못했던 것이다. 여러가지 스타일로 그림을 그려보았으나 모두 마음에 들지
+않았다. 그림책에 사용하기엔 너무 서툰 습작의 느낌이 들었다. 아래 그림들이 시행착오의 과정이다.
+
+[[file:images/independent-publishing-zenga-6.jpg]]
+[[file:images/independent-publishing-zenga-7.jpg]]
+
+[[file:images/independent-publishing-zenga-8.jpg]]
+[[file:images/independent-publishing-zenga-9.jpg]]
+
+의기소침해져선 다시 작업을 내팽개쳐 두고 있었다. 다시 작업을 시작할 수 있었던 계기는 볼펜(?) 한자루
+때문이었다. 어머니께서 부탁하신 책받침 모양 돋보기를 사러 잠실 교보문고 내 핫트랙스에 갔다가 볼펜 한자루를 샀다. 나는
+무언가 먹을 때나 무언가 물건을 구입했을 때 그 제품에 대해 찾아보는 습관이 있는데 이번에도 역시 검색을 한번
+해봤다. MITSUBISHI PENCIL 회사에서 만든 Uni-ball Eye. 안료 잉크를 사용하여 오래 보존 가능하고 물에 번지지 않는다고 나와
+있었다. 물에 번지지 않는다는 성질을 확인해보려 간단히 그림을 그려봤다. 연필로 스케치를 하고 볼펜으로 윤곽을 그린 후,
+수채 연필로 렌더링, 그리고 붓으로 물을 뭍혀 번지게 하여 마무리. 지나치게 허술하지 않고, 너무 치밀한 느낌도 아닌게 맘에
+들어 그림책의 장면을 그려보았다. 처음엔 연필로 스케치하고 그렸는데 그렇게 하면 즉흥적이고 거친 느낌이 줄어드는 것 같아
+그냥 볼펜으로 스케치를 했다. 볼펜으로 스케치를 하니 선의 느낌이 도드라져 맘에 들었다.
+
+[[file:images/independent-publishing-zenga-10.jpg]]
+
+이런 느낌이라면 그림책에 사용할 수 있다고 생각하여 다른 장면들도 그렸다.
+
+[[file:images/independent-publishing-zenga-11.jpg]]
+
+그림 그릴 때 사용한 도구들은 다음 세가지 였다.
+- Mitsubishi Pencil, Uni-ball Eye
+- Faber-Castell, Graphite Aquarelle 6B
+- STAEDTLER, Water Brush 
+
+[[file:images/independent-publishing-zenga-12.jpg]]
+
+이제 실제 책을 만들기 위해 그림 이미지와 글을 한데 모아 책의 형태로 편집을 해야했다. 그림을 디지털화하기 위해 집에 있는
+복합기를 사용할까 생각하고 있었다. 하지만 그 전에 시험 삼아 스마트폰으로 사진을 찍어 파일로 만들어 보았다. 이번에도
+GIMP를 이용해 사진을 편집했다. 생각보다 결과가 나쁘지 않아 스캐너를 이용하지 않고 스마트폰 촬영으로 모든 그림을 파일로
+옮겼다.
+
+소량인쇄를 어떻게 할까 고민하며 인터넷을 둘러보았는데 관련 서비스를 하는 곳이 있었다. 내가 이용한 곳은 '북토리'라는
+곳이었다. 그곳에 나와있는 가이드를 읽어보고 견적을 내는 과정을 따라해보며 책의 형태를 마음 속에 그려보았다. 신국판? 대략
+A5 정도 크기였고 나는 가로 형태로 책의 모양을 잡았다.
+
+업체에 전달하기 위해 책 PDF 파일을 만들어야 했다. 보통 서적 편집디자인에는 Adobe InDesign을 사용하는 것 같았다. 이를
+대신 하여 사용할 오픈소스 소프트웨어를 찾았고 그 프로그램을 이용하여 책을 디자인 했다. 사실 그림책이라 크게 디자인 할
+부분은 없었다. 참고로 프로그램의 이름은 Scribus 이다. 
+
+Scribus – Open Source Desktop Publishing
+https://www.scribus.net/
+
+[[file:images/independent-publishing-zenga-13.jpg]]
+[[file:images/independent-publishing-zenga-14.jpg]]
+
+본문의 모습은 위 사진과 같다. 서두에는 '노자, 도덕경 제2장'의 문구를 인용했고, 책의 뒷부분엔 작품소개와 만든이 소개를
+넣었다.
+
+마지막으로 책 표지 디자인이 남아 있었다. 원래 계획은 나무토막을 둥그렇게 배열한, 위에서 얘기한 이미지 구성 부분에서
+만들어 본 이미지를 사용하는 것이었다. 하지만 본문의 내용을 생각해보니 간결한 편이 좋을 것 같아서 즉흥적으로 표지를
+만들었다. 따로 이미지 편집 프로그램을 사용하지 않고 Scribus 내에서 제공하는 드로잉 기능을 활용했다. 직사각형 두개와
+제목, 부제로 이루어진 표지의 모습이다.
+
+[[file:images/independent-publishing-zenga-15.jpg]]
+
+이로써 그림책 만들기가 끝났다. 참으로 오래 질질 끌어온 프로젝트였다. 그래도 이 작업을 마중물 삼아 다른 새로운 책들을
+만들어 볼 수 있을 것 같다. 머릿 속의 생각이 이렇게 현실의 무엇, 만질수 있는 무엇으로 나타나는 과정은 늘 흥미롭고 가슴을
+두근거리게 만든다.
+
+2016. 11. 21. 월
+주문한 책이 도착했다!
+
+[[file:images/independent-publishing-zenga-16.jpg]]
+[[file:images/independent-publishing-zenga-17.jpg]]
+
+** 상수동에서 만난 사촌형
+:PROPERTIES:
+:EXPORT_FILE_NAME: drawing-cousin-20161116
+:EXPORT_DATE: 2016-11-16
+:END:
+
+[[file:images/drawing-cousin-20161116.jpg]]
+
+사촌형 만나 수다떨며 그렸던 그림
+
+** 고양이 아크릴화
+:PROPERTIES:
+:EXPORT_FILE_NAME: painting-cat-20161116
+:EXPORT_DATE: 2016-11-16
+:END:
+
+[[file:images/painting-cat-20161116.jpg]]
+
+물감이 남아 그려본건데, 대담하게 그려진 터치가 맘에 들었던 그림
+
+** 자세 교정용 거리 측정기
+:PROPERTIES:
+:EXPORT_FILE_NAME: ultrasonic-sensor-based-posture-alarm
+:EXPORT_DATE: 2016-11-16
+:END:
+
+회사에 앉아 일하다 보면 어느 순간 나쁜 자세로 일하고 있는 자신을 발견한다. 좋은 자세를 취하며 일하기 위해 간단한 장치를
+만들고자 생각했다. 자세를 측정하기엔 부족하지만 적어도 모니터와 머리 사이의 거리를 재면 지나치게 가깝게 다가가는 걸 막을
+수 있으리라 생각했다.
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-1.jpg]]
+
+이를 위해 집에서 가져온 아두이노 우노 그리고 초음파 센서를 이용하여 간단한 장치를 만들었다. 초음파 센서는 정해진
+주기마다 소리를 내어 거리를 재고 측정된 거리는 시리얼 통신을 통해 리눅스 터미널에 출력된다.
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-2.jpg]]
+
+모니터 뒷편에 붙여놓은 아두이노 우노
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-3.jpg]]
+
+모니터 상단에 위치하여 머리의 위치를 측정한다
+
+코드는 아주 간단하다.
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-4.jpg]]
+
+아래 그림을 보면 거리가 들쑥날쑥 나온다. 이런 문제가 발생하는 이유는 초음파 센서에서 나온 음파가 제대로 되돌아가지
+못해서 그런 것 같다. 노트와 같이 평평한 물체를 음파 방향과 수직 방향으로 위치시켜 거리를 재보면 안정적으로 거리가
+측정되지만 둥근 모양의 내 머리라던가 신체 일부를 대상으로 거리를 측정하면 잘못된 거리가 나오기도 한다. 음파의 반사
+방향이 엉뚱해져서 제대로 감지하지 못하나보다.
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-5.jpg]]
+
+데이터 처리를 위해 유용한 정보를 얻어볼 수 없을까 생각하여 간단히 살펴본 결과, 자리를 비우면 비교적 편차가 적은 거리가
+측정되고 반대로 사람이 자리에 앉아 일하는 경우엔 편차가 큰 거리가 측정된다.
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-6.jpg]]
+
+3미터 이하의 측정값만 남긴 경우
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-7.jpg]]
+
+50개 길이의 Moving Window로 구한 표준편차
+
+[[file:images/ultrasonic-sensor-based-posture-alarm-8.jpg]]
+
+표준편차가 0.2보다 작은 경우, 0 아니면 1로 처리한 결과
+
+자세 교정에 당장 활용할 수는 없지만 자리 앞에 사람이 앉아있는 경우와 아닌 경우를 판단하는데는 이용할 수 있을 것
+같다. 다른 방법을 고민해보면 노이즈들을 없애면서 의미있는 거리값만 남길 수 있지 않을까?
+
+** 손글씨 폰트
+:PROPERTIES:
+:EXPORT_FILE_NAME: hand-written-font
+:EXPORT_DATE: 2016-11-16
+:END:
+
+만들기에 대한 짧은 글을 남기면서, 이곳에 표시될 글자들도 나의 손글씨로 하면 어떨까 하는 생각이 들었다.
+그래서 손글씨를 컴퓨터 폰트로 바꿀 수 있는 방법을 찾아보았다. 이곳저곳을 둘러보다 FontForge라는 오픈소스
+소프트웨어를 찾았고 이를 이용해 폰트를 만들어 보았다.
+
+FontForge 사이트: https://fontforge.github.io/en-US/
+
+먼저 글씨를 적을 격자를 인쇄한 다음, 회사 동료 링링에게 글씨를 적어달라고 부탁했다.
+
+[[file:images/hand-written-font-1.jpg]]
+
+적힌 글씨를 스캔하여 이미지로 만든 다음, 격자를 참고하여 각각의 글자 이미지로 잘라낸다. 이 과정을 손으로
+하나씩 하기에는 어려움이 있어, 나는 명령행 이미지 편집 도구를 활용했다. 먼저 GIMP를 이용하여 글씨가 적힌
+격자 영역을 잘라내었다. 그리고 명도와 대비를 조정하여 글씨 부분이 두드러지게 처리했다.
+
+[[file:images/hand-written-font-2.jpg]]
+
+위의 이미지를 잘라내기 위해 ImageMagick 도구를 사용했고, 다음과 같은 명령을 이용했다.
+
+{{< highlight shell >}}
+$ convert -crop 92x92 linghe.png tile_%d.png
+{{< /highlight >}}
+
+FontForge에서 여러 이미지 파일을 일괄적으로 불러오기 위해선 파일이름을 uni(유니코드).png 형태로 바꾸어야 한다. 짧은 파이선 코드를 작성하여 이름변경 작업을 수행했다.
+
+{{< highlight shell >}}
+$ cat make-uni-hex-name.py
+#!/usr/bin/env python2
+import sys 
+import glob 
+import subprocess  
+def run_shell_command(cmd): 
+  return subprocess.check_output([‘sh’, ’-c’, cmd]) 
+# filename => tile_23.png
+filenames = glob.glob('tile*png’) 
+filenames = sorted(filenames, key=lambda x: int(x.split(’_’)[1].split(’.’)[0]))  
+code = 0x30 
+for filename in filenames: cmd = 'mv %s uni%04x.png’ % (filename, code) 
+print cmd 
+run_shell_command(cmd) 
+code += 1
+{{< /highlight >}}
+
+자, 이제 FontForge를 이용하여 폰트를 만들어보자. FontForge를 실행하면 수정할 폰트를 선택하거나, 새로 만들 폰트 파일을 지정하는 창이 나온다. New 버튼을 눌러 새로운 폰트를 만들자.
+
+[[file:images/hand-written-font-3.jpg]]
+
+각 글자에 해당하는 코드가 나와있고 실제 폰트 상의 글자 이미지가 아래에 나온다. 지금은 아무것도 채워져 있지 않아 전부 흐릿한 X 모양으로 되어 있다.
+
+[[file:images/hand-written-font-4.jpg]]
+
+File - Import를 눌러 이미지를 불러온다.
+
+[[file:images/hand-written-font-5.jpg]]
+
+앞서 만들어 둔 손글씨 글자들의 이미지를 선택한다. 형식은 Image template 이고 이렇게 하면 파일 이름을 참고하여 해당하는 글자 코드에 맞춰 이미지를 로드한다.
+
+[[file:images/hand-written-font-6.jpg]]
+
+이미지가 로드된 문자들이 파랗게 표시된다. 이 문자들을 드래그하여 선택한 다음, Element - Autotrace 항목을 클릭한다.
+
+[[file:images/hand-written-font-7.jpg]]
+
+[[file:images/hand-written-font-8.jpg]]
+
+자동으로 윤곽을 추출하여 생성된 글자 이미지들이 채워진다.
+
+[[file:images/hand-written-font-9.jpg]]
+
+마지막으로 File - Generate Fonts 항목을 눌러 새로 만든 폰트를 저장한다.
+
+[[file:images/hand-written-font-10.jpg]]
+
+이것으로 손글씨 폰트 만들기 끝! 영문의 경우 알파벳이 적어 수월하지만, 한글 폰트의 경우 손글씨로 적어야 할 글자의 개수가 어마어마하다. 여유로운 분이라면 한번 도전해봐도 좋겠습니다!
+
 ** 모니터 받침대 만들기
 :PROPERTIES:
 :EXPORT_FILE_NAME: making-monitor-stand
@@ -80,17 +654,12 @@ All posts in here will have the category set to /posts/.
 느끼는 즐거움입니다. 어떻게 만들지 고민하는 과정-실제 재료를 준비하고 만드는 과정-그 가운데 만나는 예상치 못한
 어려움과 문제해결 과정 등 간단한 물건 하나 만드는 것에서도 여러가지를 느끼고 생각할 수 있습니다.
 
-** 솜씨, 손씨
-:PROPERTIES:
-:EXPORT_FILE_NAME: somssi-sonssi
-:EXPORT_DATE: 2018-06-02
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
-:END:
-
-솜씨를 발휘하기 위해선 손씨가 필요합니다.
-요즘 같은 세상에서 손씨는 좀처럼 땀 흘릴 기회가 없습니다.
-
-손을 움직이는 날들을 위하여!
 
 
 * Footnotes
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# fill-column: 120
+# eval: (auto-fill-mode 1)
+# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
+# End:

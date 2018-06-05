@@ -2,7 +2,7 @@
 title = "솜씨, 손씨"
 author = ["azurelysium"]
 date = 2018-06-02
-lastmod = 2018-06-03T00:01:54+09:00
+lastmod = 2018-06-05T10:46:08+09:00
 tags = ["dont-export-during-make-test"]
 categories = ["posts"]
 draft = false
