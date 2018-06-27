@@ -8,6 +8,319 @@
 * Posts                                                             :@posts:
 All posts in here will have the category set to /posts/.
 
+** [Review] 아니, 공부가 된 글쓰기
+:PROPERTIES:
+:EXPORT_FILE_NAME: book-review-writing-to-learn
+:EXPORT_DATE: 2018-06-27
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
+:END:
+
+윌리엄 진서 William Zinsser 의 공부가 되는 글쓰기 Writing to learn 을 읽었다.
+윌리엄 진서의 다른 책을 먼저 읽었는데 On Writing Well 이란 제목이었다. 그때 내용이 좋았던 기억이
+있어 (내용은 잘 기억나지 않지만) 이 책을 발견했을 때 크게 고민하지 않고 구입했다.
+
+책에서는 범교과적인 글쓰기 교육의 중요성을 이야기 하고 여러 분야에서의 글쓰기 사례를 소개한다.
+
+----
+목차, 머리말
+
+1부
+1. 헤르메스와 주기율표
+2. 범교과적 글쓰기
+3. 교양 교육
+4. 배움을 위한 글쓰기
+5. 나만의 견해와 원칙
+
+2부
+6. 땅, 바다, 하늘
+7. 미술과 미술가들
+8. 자연 세계
+9. 수학 글쓰기
+10. 인간
+11. 물리 화학 글쓰기
+12. 음악의 세계
+
+역자 후기, 주
+
+----
+
+문학 분야가 아닌 사람들에게 글을 써 볼 용기를 전해준다. 2부는 잘 쓰인 글의 사례들을 소개해주고
+있지만 실린 글들의 내용 자체로도 무척 흥미롭다. 글쓰기를 평소 잘 하지 않다보니 이렇게 글쓰기에
+대해 알려주는 책들을 사 읽고 있다. 이 책의 제목은 '공부가 되는 글쓰기' 지만 현재 나에게 글쓰기란,
+'공부가 된 글쓰기', 공부해야 하는 존재로서의 글쓰기 인 것 같다.
+
+
+** 반시계 Anticlock
+:PROPERTIES:
+:EXPORT_FILE_NAME: art-anticlock
+:EXPORT_DATE: 2018-06-17
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
+:END:
+
+*/COMPUTER X ART 시리즈 - 연산 Computation/*
+
+컴퓨터의 연산 기능을 활용하여 컴퓨터-예술 작품을 만들어 본다.
+<hr>
+
+시계의 용도는 시간을 정확하게 알려주기 위함이다. 하지만 반시계는 시간을 모호하게 지시한다. 시간이 흘러 감에 따라
+달라져 가는 풍경처럼 명멸하는 이미지를 재료 삼아 시간 정보를 전한다. 분명 시침분침초침의 이미지 보다 시간의 본질에 가까운
+이미지일 것이다.
+
+기본적인 아이디어는 현재 시각을 간접적으로 보여줄 수 있는 이미지로 시계를 대신하는 것이다. 이를 위해 각 시각을
+표시하기에 적합한 이미지들을 찾아야 한다. 예전 대학원 다니던 시절, 여러 실험을 위해 데이터셋을 구했던 경험이
+떠올랐다. 그래서 컴퓨터 비전 혹은 이미지 프로세싱 쪽의 데이터셋을 뒤져보았고 다음 주소에서 이미지 세트를 구할 수
+있었다.
+
+http://placeschallenge.csail.mit.edu/
+
+약 3천여장의 이미지가 있는데, 우선 이미지들의 크기를 동일하게 만든다. 처음에 에러가 발생해서 왜 그런가 했더니 컬러
+표시하기 위한 특수코드? 때문에 그랬다. ls 옵션에 색 사용 안하는게 있어서 그걸 추가하니 된다.
+
+{{< highlight shell >}}
+% ls --color=never -1 | parallel --no-notice -X -n 1 convert '{}' -resize 400x400\! ../resized/'{}'
+{{< /highlight >}}
+
+이제 각 시각을 나타내 줄 이미지가 필요하다. 오픈소스 이미지 편집도구인 GIMP를 이용하여 아래 시침 이미지를 만들었다.
+
+<table>
+
+<tr>
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-00.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-01.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-02.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-03.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-04.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-05.png]]
+</td>
+</tr>
+
+<tr>
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-06.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-07.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-08.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-09.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-10.png]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 100
+[[file:images/anticlock-hands-11.png]]
+</td>
+</tr>
+
+</table>
+
+시침 이미지와 이미지 세트에 들어있는 후보 이미지 사이의 유사도를 정의한 다음, 유사도 점수를 구한다. 이 유사도 점수는
+나중에 시각별 이미지를 구성하는데 쓰인다. 시침 이미지와 가장 유사한 후보 이미지 N개를 선택한 다음, 가중치를 주어
+합산하면 해당 시각 이미지가 만들어 진다. 만들어진 이미지의 특징은, 선택한 시각의 시침 부분이 전체 이미지의 다른 부분보다
+밝다는 것이다.
+
+유사도 계산 알고리즘은 다음과 같다.
+1. 시침 이미지와 후보 이미지를 그레이스케일로 변환한다.
+1. 시침 이미지를 반전 시킨다 (시침 부분이 1.0의 값을, 나머지 부분은 0.0의 값을 갖는다)
+1. 시침 이미지에서 0.01을 뺀다 (시침 부분은 0.09의 값을 나머지 부분은 -0.01의 값을 갖는다)
+1. 시침 이미지와 후보 이미지를 Pixelwise Multiplication 한 다음, 그 값을 전부 더한다.
+
+곧, 시침 부분이 밝을 수록 (1.0에 가까운 값), 나머지 부분이 어두울 수록 (0.0에 가까운 값) 유사도가 높아진다.
+
+아래의 결과 예시를 보면, 00:00 시각의 경우 상단 가운데 부분이 밝고, 09:00 시각의 경우 왼쪽 중앙이 밝다. 이 예시는 비교적
+뚜렷하게 결과가 보이는 것이지만 때로 두드러지게 명암 차이가 나지 않는 경우도 있다. 이 결과는 이미지 세트 내의 후보
+이미지들에 종속적이기 때문에 다양한 이미지를 확보할 수록 보다 명확한 결과 이미지를 얻을 수 있다.
+
+<table><tr>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 300
+[[file:images/anticlock-output-0000.jpg]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 300
+[[file:images/anticlock-output-0500.jpg]]
+</td>
+
+<td style="border: 1px solid gray;">
+#+attr_html: :width 300
+[[file:images/anticlock-output-0900.jpg]]
+</td>
+
+<tr></table>
+
+anticlock.py
+{{< highlight python >}}
+#!/usr/bin/env python3
+
+from operator import itemgetter
+from glob import glob
+import numpy as np
+import pickle
+
+import matplotlib as mpl
+mpl.use('TkAgg')
+
+import matplotlib.pyplot as plt
+plt.ion()
+
+import skimage
+from skimage.io import imread, imsave, imshow
+from skimage.util import invert
+from skimage.color import rgb2gray
+from skimage.exposure import rescale_intensity
+
+skimage.io.use_plugin('matplotlib', 'imshow')
+
+def compute_scores():
+    clocks = {}
+    for fname in glob('clock-hour-hands/*png'):
+        clock = imread(fname)
+        clock = clock[:,:,:3]
+        clock = invert(clock)
+        clock = rgb2gray(clock)
+        clocks[fname] = clock
+
+    def compute_similarity(clock, img):
+        return ((clock - 0.01) * img).sum()
+
+    scores = {}
+
+    for fname in glob('resized/*jpg'):
+        print('>> processing {} ..'.format(fname))
+        image = rgb2gray(imread(fname))
+
+        for clock_key in clocks.keys():
+            if clock_key not in scores:
+                scores[clock_key] = []
+
+            score = compute_similarity(clocks[clock_key], image)
+            scores[clock_key].append( (fname, score) )
+
+    for key in scores:
+        scores[key] = sorted(scores[key], key=itemgetter(1), reverse=True)
+
+    with open('scores.pckl', 'wb') as f:
+        pickle.dump(scores, f)
+
+
+def make_layered_image_hourly():
+    scores = None
+    with open('scores.pckl', 'rb') as f:
+        scores = pickle.load(f)
+
+    for key in scores:
+        print('>> processing {} ..'.format(key))
+
+        layered = np.zeros((400, 400), dtype=np.float64)
+        candidates = [fname for fname, _ in scores[key][:30]]
+
+        for i, fname in enumerate(candidates):
+            image = rgb2gray(imread(fname))
+            layered = layered + (image / (i + 1))
+
+        layered = rescale_intensity(layered)
+        imsave('hourly/{}'.format(key.split('/')[-1]), layered)
+
+
+def make_layered_image_per_minute():
+    scores = None
+    with open('scores.pckl', 'rb') as f:
+        scores = pickle.load(f)
+
+    for hour in range(12):
+        for minute in range(60):
+
+            print('>> processing {:02}:{:02} ..'.format(hour, minute))
+            n = 20
+
+            key_curr = 'clock-hour-hands/{:02}.png'.format(hour)
+            key_next = 'clock-hour-hands/{:02}.png'.format((hour + 1) % 12)
+            
+            candidates_curr = [fname for fname, _ in scores[key_curr][:n]]
+            candidates_next = [fname for fname, _ in scores[key_next][:n]]
+
+            ratio = 1 - (float(minute) / 60)
+
+            layered = np.zeros((400, 400), dtype=np.float64)
+            for i in range(n):
+                image1 = rgb2gray(imread(candidates_curr[i]))
+                image2 = rgb2gray(imread(candidates_next[i]))
+                
+                layered = layered + ratio * (image1 / (i + 1))
+                layered = layered + (1 - ratio) * (image2 / (i + 1))
+
+            layered = rescale_intensity(layered)
+            imsave('per-minute/{:02}{:02}.jpg'.format(hour, minute), layered)
+
+if __name__ == '__main__':
+    #compute_scores()
+    #make_layered_image_hourly()
+    make_layered_image_per_minute()
+
+    # After we make per-minute images,
+    # we can make animated gif file using the command below
+    # $ convert -dispose none -loop 0 -delay 1.5 per-minute/*jpg anticlock.gif
+    # $ gifsicle --colors 16 -O3 < anticlock.gif > anticlock-16colors.gif
+{{< /highlight >}}
+
+anticlock-labeling.sh
+{{< highlight shell>}}
+#!/bin/bash
+
+echo 0000; convert ./per-minute/0000.jpg -pointsize 20 -fill black -annotate +20+30 00:00 ./with-label-per-minute/0000.jpg
+echo 0001; convert ./per-minute/0001.jpg -pointsize 20 -fill black -annotate +20+30 00:01 ./with-label-per-minute/0001.jpg
+echo 0002; convert ./per-minute/0002.jpg -pointsize 20 -fill black -annotate +20+30 00:02 ./with-label-per-minute/0002.jpg
+echo 0003; convert ./per-minute/0003.jpg -pointsize 20 -fill black -annotate +20+30 00:03 ./with-label-per-minute/0003.jpg
+..
+{{< /highlight >}}
+
+가중치를 구한 다음 곱하는 방식으로 분 단위 결과 이미지를 생성할 수 있었다. 그리고 생성한 이미지들을 시간 순서대로 나열한 후
+애니메이션을 만들었다. 왼쪽 상단에 시:분 형태로 시각이 표시된다. 프레임 간 지연시간을 짧게 했기 때문에 시간은 몇 배로
+빨리 흐르고 그에 따라 변화하는 이미지를 쉽게 확인할 수 있다.
+
+#+attr_html: :width 400
+[[file:images/anticlock-output-animated.gif]]
+
+반시계 완성!
+
 ** 솜씨, 손씨
 :PROPERTIES:
 :EXPORT_FILE_NAME: somssi-sonssi
